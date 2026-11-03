@@ -1,0 +1,1 @@
+mkdir recap-shell && cd recap-shell && echo{commande} > recap-j1.txt
